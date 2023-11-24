@@ -1,0 +1,15 @@
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\bin\Debug\WPFCommandsDemo.exe.config
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\bin\Debug\WPFCommandsDemo.exe
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\bin\Debug\WPFCommandsDemo.pdb
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\MainWindow.g.cs
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\App.g.cs
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo_MarkupCompile.cache
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo_MarkupCompile.lref
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\MainWindow.baml
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.g.resources
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.Properties.Resources.resources
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.csproj.GenerateResource.cache
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.csproj.CoreCompileInputs.cache
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.exe
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.pdb
+D:\WPF\WPFCommandsDemo\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.csprojAssemblyReference.cache

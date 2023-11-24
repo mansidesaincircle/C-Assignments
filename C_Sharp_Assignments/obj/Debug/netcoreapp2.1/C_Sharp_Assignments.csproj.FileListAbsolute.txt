@@ -1,0 +1,11 @@
+D:\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\netcoreapp2.1\C_Sharp_Assignments.deps.json
+D:\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\netcoreapp2.1\C_Sharp_Assignments.runtimeconfig.json
+D:\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\netcoreapp2.1\C_Sharp_Assignments.runtimeconfig.dev.json
+D:\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\netcoreapp2.1\C_Sharp_Assignments.dll
+D:\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\netcoreapp2.1\C_Sharp_Assignments.pdb
+D:\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\netcoreapp2.1\C_Sharp_Assignments.csprojAssemblyReference.cache
+D:\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\netcoreapp2.1\C_Sharp_Assignments.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\netcoreapp2.1\C_Sharp_Assignments.AssemblyInfoInputs.cache
+D:\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\netcoreapp2.1\C_Sharp_Assignments.AssemblyInfo.cs
+D:\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\netcoreapp2.1\C_Sharp_Assignments.dll
+D:\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\netcoreapp2.1\C_Sharp_Assignments.pdb

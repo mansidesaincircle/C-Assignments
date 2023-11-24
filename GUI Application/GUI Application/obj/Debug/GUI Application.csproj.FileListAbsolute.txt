@@ -1,0 +1,11 @@
+D:\GUI Application\GUI Application\bin\Debug\GUI Application.exe.config
+D:\GUI Application\GUI Application\bin\Debug\GUI Application.exe
+D:\GUI Application\GUI Application\bin\Debug\GUI Application.pdb
+D:\GUI Application\GUI Application\obj\Debug\GUI Application.csprojAssemblyReference.cache
+D:\GUI Application\GUI Application\obj\Debug\GUI_Application.Form1.resources
+D:\GUI Application\GUI Application\obj\Debug\GUI_Application.Properties.Resources.resources
+D:\GUI Application\GUI Application\obj\Debug\GUI Application.csproj.GenerateResource.cache
+D:\GUI Application\GUI Application\obj\Debug\GUI Application.csproj.CoreCompileInputs.cache
+D:\GUI Application\GUI Application\obj\Debug\GUI Application.exe
+D:\GUI Application\GUI Application\obj\Debug\GUI Application.pdb
+D:\GUI Application\GUI Application\obj\Debug\GUI_Application.Form2.resources

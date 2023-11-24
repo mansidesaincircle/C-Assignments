@@ -1,0 +1,15 @@
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\bin\Debug\WPFDataContextDemo.exe.config
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\bin\Debug\WPFDataContextDemo.exe
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\bin\Debug\WPFDataContextDemo.pdb
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.csprojAssemblyReference.cache
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\MainWindow.g.cs
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\App.g.cs
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo_MarkupCompile.cache
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo_MarkupCompile.lref
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\MainWindow.baml
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.g.resources
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.Properties.Resources.resources
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.csproj.GenerateResource.cache
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.csproj.CoreCompileInputs.cache
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.exe
+D:\WPF\WPFDataContextDemo\WPFDataContextDemo\obj\Debug\WPFDataContextDemo.pdb

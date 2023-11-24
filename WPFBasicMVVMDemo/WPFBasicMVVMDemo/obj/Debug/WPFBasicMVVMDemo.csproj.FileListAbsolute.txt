@@ -1,0 +1,16 @@
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\bin\Debug\WPFBasicMVVMDemo.exe.config
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\bin\Debug\WPFBasicMVVMDemo.exe
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\bin\Debug\WPFBasicMVVMDemo.pdb
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\View\MainWindow.g.cs
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\App.g.cs
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo_MarkupCompile.cache
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo_MarkupCompile.lref
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\View\MainWindow.baml
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.g.resources
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.Properties.Resources.resources
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.csproj.GenerateResource.cache
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.csproj.CoreCompileInputs.cache
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.exe
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.pdb
+D:\WPF\WPFBasicMVVMDemo\WPFBasicMVVMDemo\obj\Debug\WPFBasicMVVMDemo.csprojAssemblyReference.cache

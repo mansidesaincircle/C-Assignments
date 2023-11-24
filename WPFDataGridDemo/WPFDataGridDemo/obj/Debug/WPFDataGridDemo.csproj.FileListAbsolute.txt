@@ -1,0 +1,14 @@
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\bin\Debug\WPFDataGridDemo.exe.config
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\bin\Debug\WPFDataGridDemo.exe
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\bin\Debug\WPFDataGridDemo.pdb
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\MainWindow.g.cs
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\App.g.cs
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo_MarkupCompile.cache
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo_MarkupCompile.lref
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\MainWindow.baml
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo.g.resources
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo.Properties.Resources.resources
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo.csproj.GenerateResource.cache
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo.csproj.CoreCompileInputs.cache
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo.exe
+D:\WPF\WPFDataGridDemo\WPFDataGridDemo\obj\Debug\WPFDataGridDemo.pdb
